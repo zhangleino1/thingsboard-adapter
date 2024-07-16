@@ -1,0 +1,1 @@
+nohup node proxy-server.js > proxy-server.log 2>&1 &
